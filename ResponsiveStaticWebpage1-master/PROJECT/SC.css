@@ -1,0 +1,8 @@
+body{
+    width: 600px;
+    height: 200px;
+    background-color:aliceblue;
+    padding: 20px;
+    position: relative;
+    left: 400px;
+}
